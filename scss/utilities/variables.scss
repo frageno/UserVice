@@ -17,7 +17,17 @@ $text-color: #616161;
 /// @type Color
 $light-gray: #f2f2f2;
 
-
+// Map colors 
+$colors: (
+    "primary": $primary-color,
+    "secondary": $secondary-color,
+    "gray": $text-color,
+    "success": #19e635,
+    "error": #d32752,
+    "info": #f6c31c,
+    "white": #ffffff,
+    "black": #000000,
+);
 
 /// Container max width
 /// @type Length
