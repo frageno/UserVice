@@ -1,0 +1,38 @@
+/// This file contains all variables needed for this site
+
+
+/// Main color
+/// @type Color
+$primary-color: #FF4A17;
+
+/// Secondary color
+/// @type Color
+$secondary-color: #14212B;
+
+/// Text color
+/// @type Color
+$text-color: #616161;
+
+// Light gray
+/// @type Color
+$light-gray: #f2f2f2;
+
+
+
+/// Container max width
+/// @type Length
+$max-width: 1440px !default;
+
+/// Breakpoints
+$breakpoints: (
+    'small': 320px,
+    'medium': 768px,
+    'large': 1024px,
+)!default;
+
+/// Typography
+$font-base-size: 1em;
+$font-scale-size: 1.2;
+$font-family: 'Nunito Sans', sans-serif;
+
+
