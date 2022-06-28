@@ -1,4 +1,9 @@
+// Variables
 @import 'utilities/variables';
 
+// Base styles
 @import 'base/_reset';
 @import 'base/_typography';
+
+// Components
+@import 'components/_card';
